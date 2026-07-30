@@ -1,0 +1,114 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOQlvnigh+wldKOA5Xn3ECg",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/lenoxy-cell/AMANI-AI/blob/main/01_project_intro\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "eqmTVZACqNii",
+        "outputId": "e91be9ac-8323-4772-810b-a63e6d9cf96f"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "what's your name?kenny\n",
+            "how old are you19\n",
+            "what's your favourite food?chips\n",
+            "\n",
+            " welcome kenny\n"
+          ]
+        }
+      ],
+      "source": [
+        "name=input(\"what's your name?\")\n",
+        "age=input(\"how old are you\")\n",
+        "food=input(\"what's your favourite food?\")\n",
+        "print(\"\\n welcome\",name)"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "\"\"\"\n",
+        "AMANI AI - Main Application\n",
+        "\n",
+        "Author: Kennedy\n",
+        "Project: AMANI AI\n",
+        "\"\"\"\n",
+        "\n",
+        "def main():\n",
+        "    print(\"=\" * 50)\n",
+        "    print(\"        WELCOME TO AMANI AI\")\n",
+        "    print(\"=\" * 50)\n",
+        "    print(\"AI Solutions for Education, Agriculture,\")\n",
+        "    print(\"Business, and Data Analysis.\")\n",
+        "    print(\"=\" * 50)\n",
+        "\n",
+        "\n",
+        "if __name__ == \"__main__\":\n",
+        "    main()"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "Pezj6YmNrDMA",
+        "outputId": "153437f4-21d2-4204-bae1-40a28430efb9"
+      },
+      "execution_count": 1,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "==================================================\n",
+            "        WELCOME TO AMANI AI\n",
+            "==================================================\n",
+            "AI Solutions for Education, Agriculture,\n",
+            "Business, and Data Analysis.\n",
+            "==================================================\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "U61Mj8x0HJaA"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
