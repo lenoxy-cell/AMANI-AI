@@ -2,7 +2,7 @@
 
 ## What is this project?
 
-AMANI AI is an artificial intelligence ecosystem designed to build intelligent solutions for education, agriculture, business, and cloud computing.
+AMANI AI is an artificial intelligence ecosystem designed to build intelligent solutions for education, agriculture,data analysis,transport & logistics, business, and cloud computing.
 
 ---
 
@@ -91,4 +91,4 @@ outputs/
 
 ## Author
 
-Kennedy
+Kennedy Dusengimana
